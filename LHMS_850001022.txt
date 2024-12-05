@@ -1,0 +1,2 @@
+Room 111: {'type': 'single', 'price': '$400', 'status': 'Allocated to shyam'}
+Room 112: {'type': 'Double', 'price': '$600', 'status': 'Available'}
